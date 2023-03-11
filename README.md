@@ -8,7 +8,7 @@ I am a zealous MERN Stack developer by passion and a civil engineer by degree.
 - 🔭 I’m looking to collaborate on open-source projects and to learn from other developers. 
 - 📫 You can reach me via email at aravindr998@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aravind-r-321b3117b/). 
 
-## Skills:
+### Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -38,3 +38,26 @@ I am a zealous MERN Stack developer by passion and a civil engineer by degree.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 
 </div>
+
+### Projects:
+- [E-Commerce Website](https://www.kromium.shop)
+
+### My Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravindr998&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+### Socials:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aravind-r-321b3117b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/aravind.ramachandran.16/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+Thanks for visiting my profile! Let's connect and work together to build amazing things.
+
+<img src="https://komarev.com/ghpvc/?username=Aravindr998&style=flat-square&color=blue" alt=""/>
