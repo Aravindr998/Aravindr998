@@ -3,7 +3,7 @@
 
 I am a zealous MERN Stack developer by passion and a civil engineer by degree.
 
-- 🌱 I’m currently learning React JS. 
+- 🌱 I’m currently learning TypeScript. 
 - 💻 I'm currently working on building several projects using the MERN stack to improve my skills and get hands-on experience. 
 - 🔭 I’m looking to collaborate on open-source projects and to learn from other developers. 
 - 📫 You can reach me via email at aravindr998@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aravind-r-321b3117b/). 
@@ -36,7 +36,11 @@ I am a zealous MERN Stack developer by passion and a civil engineer by degree.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ### Projects:
