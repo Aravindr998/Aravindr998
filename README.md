@@ -43,10 +43,6 @@ I am a zealous MERN Stack developer by passion and a civil engineer by degree.
   
 </div>
 
-### Projects:
-- [E-Commerce Website](https://www.kromium.shop)
-- [Social Media Application](https://vibee.kromium.shop/)
-
 ### My Stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravindr998&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
